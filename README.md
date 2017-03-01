@@ -10,13 +10,6 @@
 ## Team   
 
 * 团队地址  https://github.com/RXTeams
-  
-成员
-* ZHThinker  https://github.com/ZHThinker
-* liboheng  https://github.com/RXTeams
-* wukuwudi  https://github.com/RXTeams
-* roycms  https://github.com/RXTeams
-
 
 ## Rankings
 
