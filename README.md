@@ -2,10 +2,10 @@
 # RXTeam  
 > 三芳科技开发团队
 
-[[IOS 组](IOS)]  
-[[Android 组](Android)]  
-[[Web 组](Web)]  
-[[Java 组](Java)]  
+[[IOS 组](IOS)]    
+[[Android 组](Android)]    
+[[Web 组](Web)]    
+[[Java 组](Java)]    
 
 ## Team   
 
