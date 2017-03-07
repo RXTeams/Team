@@ -2,7 +2,7 @@
 # RXTeam  
 > 三芳科技开发团队
 
-[[IOS 组](IOS)] [[Swift 组](https://github.com/roycms/swiftCodeSpecification)]        
+[[IOS 组](IOS)] [[Swift 组](https://github.com/roycms/swiftCodeSpecification)]
 [[Android 组](Android)]    
 [[Web 组](Web)]    
 [[Java 组](Java)]    
